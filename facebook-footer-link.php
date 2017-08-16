@@ -2,7 +2,7 @@
 
 /* 
  *  Plugin Name: Facebook footer links
- *  Description: Adds facebook links to the footer
+ *  Description: Adds facebook links to the footer of every post
  *  Version: 1.0.0
  *  Author: Jeril Sebastian
  * 
